@@ -1,1 +1,1 @@
-full stack web development using sprintboot
+full stack web development project using sprintboot
